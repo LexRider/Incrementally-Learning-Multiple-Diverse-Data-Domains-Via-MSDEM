@@ -1,1 +1,1 @@
-code for paper：Incrementally Learning Multiple Diverse Data Domains Via Multi-Source Dynamic Expansion Model
+Code for paper：Incrementally Learning Multiple Diverse Data Domains Via Multi-Source Dynamic Expansion Model
